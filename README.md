@@ -1,4 +1,4 @@
-# IMU-based Multisegment Gait Analysis and Prediction
+# Single IMU-based Multisegment Motion Analysis and Prediction
 
 ## Synopsis
 
