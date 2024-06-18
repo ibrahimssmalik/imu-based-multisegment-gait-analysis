@@ -24,19 +24,15 @@ This project collects subject data to estimate thigh angular velocities from sha
 
 ## Instructions
 
-1. Clone the repository to your local machine:
-```bash
-    git clone https://github.com/yourusername/imu-based-multisegment-gait-analysis.git
-```
-2. Navigate to the project directory:
+1. Navigate to the project directory:
 ```bash
     cd imu-based-multisegment-gait-analysis
 ```
-3. Install dependencies using pip:
+2. Install dependencies using pip:
 ```bash
     pip install -r requirements.txt
 ```
-4. Open and run the Jupyter Notebook gait_analysis.ipynb to explore the project.
-5. Ensure that the dataset files in the updated_my_dataset directory are correctly sourced in the notebook.
-6. Experiment with the code, modify parameters, or integrate new functionalities as needed.
-7. Refer to FYP-Presentation-Ibrahim.pdf for a detailed project presentation and analysis.
+3. Open and run the Jupyter Notebook gait_analysis.ipynb to explore the project.
+4. Ensure that the dataset files in the updated_my_dataset directory are correctly sourced in the notebook.
+5. Experiment with the code, modify parameters, or integrate new functionalities as needed.
+6. Refer to FYP-Presentation-Ibrahim.pdf for a detailed project presentation and analysis.
